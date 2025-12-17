@@ -14,7 +14,7 @@ This project is a simple and responsive landing page created for small businesse
 - CSS3
 
 ## Live Demo
-[View the website](LINK_DO_GITHUB_PAGES)
+[View the website] https://fredjoaquim.github.io/simple-business-landing-page/
 
 ## Author
 Developed by Fred Joaquim
